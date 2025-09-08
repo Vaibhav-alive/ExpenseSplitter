@@ -4,6 +4,8 @@ import Card from "./component/card";
 import Res from "./component/res";
 import Labels from "./component/labels";
 import { Route, Routes } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
+
 import "./custom.scss";
 
 function App() {
