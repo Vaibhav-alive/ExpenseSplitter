@@ -1,6 +1,7 @@
 import React from "react";
 import Sidebar from "./component/sidebar";
 import Card from "./component/card";
+import Bg from './assets/bg2.png'
 import Res from "./component/res";
 import Labels from "./component/labels";
 import { Route, Routes } from "react-router-dom";
